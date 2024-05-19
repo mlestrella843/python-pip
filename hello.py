@@ -1,0 +1,1 @@
+print('Hola a este nuevo curso de python en VS Code')
